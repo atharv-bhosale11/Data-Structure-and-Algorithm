@@ -5,7 +5,7 @@ Program Name    : Singly Linked List - Structure Packing
 Program Number  : 002
 Description     : This program demonstrates the use of #pragma pack(1)
                   to remove compiler-added padding from a singly linked
-                  list node structure. It illustrates how structure
+                  list node structure. It illustrates how structure 
                   packing affects memory consumption and structure size.
 
 Concepts Used   : Structure, Self-Referential Structure,
