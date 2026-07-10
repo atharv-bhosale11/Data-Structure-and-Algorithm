@@ -1,8 +1,8 @@
-# Linked List in C
+# Linked List in C, C++ & Java
 
 ## Overview
 
-This repository contains the implementation of Linked List Data Structures using the C programming language. It covers various types of linked lists along with their fundamental operations. The objective is to understand dynamic memory allocation, pointers, and efficient data organization techniques.
+This repository contains the implementation of Linked List Data Structures using C, C++, and Java. It covers various types of linked lists along with their fundamental operations. The objective is to understand dynamic memory allocation, pointers, object-oriented concepts, and efficient data organization techniques across multiple programming languages.
 
 ## Topics Covered
 
@@ -60,29 +60,65 @@ This repository contains the implementation of Linked List Data Structures using
 
 ## Concepts Used
 
-1. Structures
-2. Pointers
-3. Dynamic Memory Allocation
-4. Traversal Techniques
-5. Data Insertion Operations
-6. Data Deletion Operations
-7. Searching Techniques
+1. Structures (C)
+2. Classes and Objects (C++ & Java)
+3. Pointers
+4. References
+5. Dynamic Memory Allocation
+6. Traversal Techniques
+7. Data Insertion Operations
+8. Data Deletion Operations
+9. Searching Techniques
+10. Object-Oriented Programming
 
 ## Technologies Used
 
 1. C Programming Language
-2. GCC Compiler
-3. Visual Studio Code
-4. Git & GitHub
+2. C++ Programming Language
+3. Java
+4. GCC Compiler
+5. G++ Compiler
+6. JDK (Java Development Kit)
+7. Visual Studio Code
+8. Git & GitHub
 
 ## Learning Outcomes
 
 1. Understanding Dynamic Data Structures
-2. Mastering Pointer Manipulation
+2. Mastering Pointer and Reference Manipulation
 3. Efficient Memory Management
 4. Improving Problem-Solving Skills
-5. Building a Strong Foundation for Advanced Data Structures
+5. Understanding Object-Oriented Design
+6. Building a Strong Foundation for Advanced Data Structures and Algorithms (DSA)
+7. Comparing Linked List Implementations Across Multiple Languages
+
+## Repository Structure
+
+```text
+Linked-List/
+│
+├── C/
+│   ├── SinglyLinkedList/
+│   ├── DoublyLinkedList/
+│   ├── CircularSinglyLinkedList/
+│   └── CircularDoublyLinkedList/
+│
+├── CPP/
+│   ├── SinglyLinkedList/
+│   ├── DoublyLinkedList/
+│   ├── CircularSinglyLinkedList/
+│   └── CircularDoublyLinkedList/
+│
+├── Java/
+│   ├── SinglyLinkedList/
+│   ├── DoublyLinkedList/
+│   ├── CircularSinglyLinkedList/
+│   └── CircularDoublyLinkedList/
+│
+└── README.md
+```
 
 ## Author
 
 Atharv Tushar Bhosale
+
