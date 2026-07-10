@@ -1,7 +1,7 @@
 /*
 =====================================================================
 
-Program Name    : Singly Linked List - Node Initialization
+Program Name    : Singly Linked List - Node Initialization 
 Program Number  : 003
 Description     : This program demonstrates the creation of a singly
                   linked list node and the initialization of its data
