@@ -1,30 +1,29 @@
 /*
 =====================================================================
 
-Program Name    : Singly Linked List - InsertFirst and InsertLast
-Program Number  : 007
-Description     : This program demonstrates the implementation
-                  of InsertFirst() and InsertLast() operations
+Program Name    : Singly Linked List - InsertFirst() and InsertLast()
+Program Number  : 011
+Description     : This program demonstrates the implementation of
+                  InsertFirst() and InsertLast() member functions
                   in a Singly Linked List using C++ classes.
 
-                  InsertFirst() inserts a new node at the
-                  beginning of the linked list, while
-                  InsertLast() inserts a new node at the
-                  end of the linked list.
+                  InsertFirst() inserts a new node at the beginning
+                  of the linked list, while InsertLast() inserts a
+                  new node at the end of the linked list.
 
-Concepts Used   : C++, Classes, Constructor,
-                  Dynamic Memory Allocation,
-                  Encapsulation,
+                  The program also demonstrates traversal using
+                  Display() and node counting using Count().
+
+Concepts Used   : C++, Classes, Objects, Constructor,
                   Self-Referential Structure,
-                  Linked List Traversal,
-                  Insert Operations
+                  Dynamic Memory Allocation (new),
+                  Encapsulation, Traversal,
+                  Insertion Operations
 
-Input           : Node values
-                  (11, 21, 51, 101, 111, 121)
+Input           : Node values inserted through function calls.
 
-Output          : Displays the linked list after
-                  insertion operations and shows
-                  the total node count.
+Output          : Displays linked list contents after insertion
+                  operations and total number of nodes.
 
 Date            : July 2026
 Language        : C++
@@ -106,7 +105,8 @@ void  SinglyLL:: InsertFirst(int iNo)
         newn -> next = this -> first;
         this -> first = newn;
     }
-    this -> iCount++;                               // Important
+
+    this -> iCount++;
 }
 
 void  SinglyLL:: InsertLast(int iNo)
@@ -129,11 +129,13 @@ void  SinglyLL:: InsertLast(int iNo)
 
         while(temp -> next != NULL)
         {
-            temp = temp -> next;  
+            temp = temp -> next;
         }
+
         temp -> next = newn;
     }
-    this -> iCount++;                              // Important
+
+    this -> iCount++;
 }
 
 void  SinglyLL:: InsertAtPos(int iNo, int iPos)
@@ -153,9 +155,9 @@ int main()
     SinglyLL sobj;
     int iRet = 0;
 
-    sobj.InsertFirst(51);                // InsertFirst(sobj,51)
-    sobj.InsertFirst(21);                // InsertFirst(sobj,21)
-    sobj.InsertFirst(11);                // InsertFirst(sobj,11)
+    sobj.InsertFirst(51);
+    sobj.InsertFirst(21);
+    sobj.InsertFirst(11);
 
     sobj.Display();
 
@@ -165,10 +167,11 @@ int main()
     sobj.InsertLast(101);
     sobj.InsertLast(111);
     sobj.InsertLast(121);
+
     sobj.Display();
+
     iRet = sobj.Count();
     cout<<"Number of Elements are: "<<iRet<<endl;
-
 
     return 0;
 }
@@ -186,96 +189,56 @@ Number of Elements are: 6
 
 Explanation :
 
-Initially the linked list is empty.
+InsertFirst() Operation :
 
-InsertFirst Operations :
+1. InsertFirst(51)
+   NULL
+     |
+     v
+   [51|NULL]
 
-InsertFirst(51)
+2. InsertFirst(21)
+   [21|*] -> [51|NULL]
 
-11st Step:
-first
-  |
-  v
-+----+------+
-| 51 | NULL |
-+----+------+
+3. InsertFirst(11)
+   [11|*] -> [21|*] -> [51|NULL]
 
-InsertFirst(21)
+InsertLast() Operation :
 
-first
-  |
-  v
-+----+------+    +----+------+
-| 21 |   o------>| 51 | NULL |
-+----+------+    +----+------+
+4. InsertLast(101)
+   [11] -> [21] -> [51] -> [101|NULL]
 
-InsertFirst(11)
+5. InsertLast(111)
+   [11] -> [21] -> [51] -> [101] -> [111|NULL]
 
-first
-  |
-  v
-+----+------+    +----+------+    +----+------+
-| 11 |   o------>| 21 |   o------>| 51 | NULL |
-+----+------+    +----+------+    +----+------+
+6. InsertLast(121)
+   [11] -> [21] -> [51] -> [101] -> [111] -> [121|NULL]
 
-Node Count = 3
+Count Tracking :
 
---------------------------------------------------
+After InsertFirst operations :
+iCount = 3
 
-InsertLast Operations :
-
-InsertLast(101)
-
-| 11 |-> | 21 |-> | 51 |-> | 101 |-> NULL
-
-InsertLast(111)
-
-| 11 |-> | 21 |-> | 51 |-> | 101 |-> | 111 |-> NULL
-
-InsertLast(121)
-
-| 11 |-> | 21 |-> | 51 |-> | 101 |-> | 111 |-> | 121 |-> NULL
-
-Node Count = 6
-
-Traversal of InsertLast :
-
-first
-  |
-  v
-11 -> 21 -> 51 -> 101 -> 111 -> 121 -> NULL
-
-For every InsertLast() call:
-1. Temporary pointer starts from first.
-2. Traverses up to the last node.
-3. New node is attached to the last node.
-4. iCount is incremented.
+After InsertLast operations :
+iCount = 6
 
 Operations Performed :
 
 1. Created Singly Linked List object.
-2. Inserted three nodes using InsertFirst().
-3. Displayed linked list.
-4. Counted total nodes.
-5. Inserted three nodes using InsertLast().
-6. Traversed list to locate last node.
-7. Attached new nodes at the end.
-8. Updated node count.
-9. Displayed final linked list.
-
-Time Complexity :
-
-InsertFirst() : O(1)
-InsertLast()  : O(N)
+2. Inserted nodes at the beginning using InsertFirst().
+3. Displayed linked list contents.
+4. Counted total nodes using Count().
+5. Inserted nodes at the end using InsertLast().
+6. Displayed updated linked list.
+7. Verified node count after insertions.
 
 Conclusion :
 
-InsertFirst() is a constant-time operation because
-the first pointer is directly updated.
-
-InsertLast() requires traversal to locate the last
-node before attaching the new node, making it a
-linear-time operation.
+This program successfully demonstrates insertion at
+both the beginning and end of a Singly Linked List
+using object-oriented programming in C++. The node
+count is maintained efficiently using the iCount
+member variable.
 
 =====================================================================
 */
