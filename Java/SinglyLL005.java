@@ -1,7 +1,7 @@
 /*
 =====================================================================
 
-Program Name    : Singly Linked List Traversal Using Temp Pointer
+Program Name    : Singly Linked List Traversal Using Temp Pointer 
 Program Number  : 005
 Description     : This program demonstrates traversal of a Singly
                   Linked List using a temporary pointer (temp).
