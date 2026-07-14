@@ -1,25 +1,36 @@
 /*
 =====================================================================
 
-Program Name    : Singly Linked List - DeleteAtPos Function (C++)
+Program Name    : Singly Linked List - Menu Driven Application 
 Program Number  : 017
-Description     : This program demonstrates deletion of a node
-                  from a specified position in a Singly Linked
-                  List. Position validation is performed before
-                  deletion. Special cases such as deletion from
-                  the first and last positions are handled by
-                  calling existing member functions.
+Description     : This program implements a menu-driven
+                  Singly Linked List using C++ classes.
+                  The user can perform various operations
+                  such as insertion, deletion, display,
+                  and counting nodes through an interactive
+                  menu system.
 
-Concepts Used   : C++, Class, Constructor,
-                  Dynamic Memory Management,
-                  Self-Referential Structure,
-                  Linked List Traversal,
-                  Position-Based Deletion
+Concepts Used   : C++, Classes, Objects,
+                  Dynamic Memory Allocation,
+                  Linked List Operations,
+                  Menu Driven Programming,
+                  Encapsulation
 
-Input           : Position of node to be deleted
+Operations      :
+                  1. Insert First
+                  2. Insert Last
+                  3. Insert At Position
+                  4. Delete First
+                  5. Delete Last
+                  6. Delete At Position
+                  7. Display List
+                  8. Count Nodes
+                  0. Exit
 
-Output          : Displays the linked list after deleting
-                  the node from the desired position.
+Input           : User Choice, Data, Position
+
+Output          : Displays updated linked list
+                  and operation results.
 
 Date            : July 2026
 Language        : C++
@@ -256,43 +267,92 @@ void  SinglyLL:: DeleteAtPos(int iPos)
 int main()
 {
     SinglyLL sobj;
+
+    int iChoice = 1;
+    int iValue = 0;
+    int iPos = 0;
     int iRet = 0;
 
-    sobj.InsertFirst(51);                // InsertFirst(sobj,51)
-    sobj.InsertFirst(21);                // InsertFirst(sobj,21)
-    sobj.InsertFirst(11);                // InsertFirst(sobj,11)
+    while(iChoice != 0)
+    {
+        cout<<"\n-------------------------------------------------\n";
+        cout<<"Singly Linked List Menu\n";
+        cout<<"-------------------------------------------------\n";
 
-    sobj.Display();
+        cout<<"1 : Insert First\n";
+        cout<<"2 : Insert Last\n";
+        cout<<"3 : Insert At Position\n";
+        cout<<"4 : Delete First\n";
+        cout<<"5 : Delete Last\n";
+        cout<<"6 : Delete At Position\n";
+        cout<<"7 : Display Elements\n";
+        cout<<"8 : Count Elements\n";
+        cout<<"0 : Exit\n";
 
-    iRet = sobj.Count();
-    cout<<"Number of Elements are: "<<iRet<<endl;
+        cout<<"\nEnter your choice : ";
+        cin>>iChoice;
 
-    sobj.InsertLast(101);
-    sobj.InsertLast(111);
-    sobj.InsertLast(121);
-    sobj.Display();
-    iRet = sobj.Count();
-    cout<<"Number of Elements are: "<<iRet<<endl;
+        switch(iChoice)
+        {
+            case 1:
+                cout<<"Enter data : ";
+                cin>>iValue;
 
-    sobj.DeleteFirst();
-    sobj.Display();
-    iRet = sobj.Count();
-    cout<<"Number of Elements are: "<<iRet<<endl;
+                sobj.InsertFirst(iValue);
+                break;
 
-    sobj.DeleteLast();
-    sobj.Display();
-    iRet = sobj.Count();
-    cout<<"Number of Elements are: "<<iRet<<endl;
+            case 2:
+                cout<<"Enter data : ";
+                cin>>iValue;
 
-    sobj.InsertAtPos(105,4);
-    sobj.Display();
-    iRet = sobj.Count();
-    cout<<"Number of Elements are: "<<iRet<<endl;
+                sobj.InsertLast(iValue);
+                break;
 
-    sobj.DeleteAtPos(4);
-    sobj.Display();
-    iRet = sobj.Count();
-    cout<<"Number of Elements are: "<<iRet<<endl;
+            case 3:
+                cout<<"Enter data : ";
+                cin>>iValue;
+
+                cout<<"Enter position : ";
+                cin>>iPos;
+
+                sobj.InsertAtPos(iValue,iPos);
+                break;
+
+            case 4:
+                sobj.DeleteFirst();
+                cout<<"First node deleted\n";
+                break;
+
+            case 5:
+                sobj.DeleteLast();
+                cout<<"Last node deleted\n";
+                break;
+
+            case 6:
+                cout<<"Enter position : ";
+                cin>>iPos;
+
+                sobj.DeleteAtPos(iPos);
+                break;
+
+            case 7:
+                sobj.Display();
+                break;
+
+            case 8:
+                iRet = sobj.Count();
+                cout<<"Number of elements are : "<<iRet<<endl;
+                break;
+
+            case 0:
+                cout<<"Thank you for using the application...\n";
+                break;
+
+            default:
+                cout<<"Invalid choice\n";
+                break;
+        }
+    }
 
     return 0;
 }
@@ -300,65 +360,68 @@ int main()
 /*
 =====================================================================
 
-Expected Output :
+Sample Execution :
+
+-------------------------------------------------
+Singly Linked List Menu
+-------------------------------------------------
+
+1 : Insert First
+2 : Insert Last
+3 : Insert At Position
+4 : Delete First
+5 : Delete Last
+6 : Delete At Position
+7 : Display Elements
+8 : Count Elements
+0 : Exit
+
+Enter your choice : 1
+Enter data : 51
+
+Enter your choice : 1
+Enter data : 21
+
+Enter your choice : 1
+Enter data : 11
+
+Enter your choice : 7
 
 | 11 |-> | 21 |-> | 51 |-> NULL
-Number of Elements are: 3
 
-| 11 |-> | 21 |-> | 51 |-> | 101 |-> | 111 |-> | 121 |-> NULL
-Number of Elements are: 6
+Enter your choice : 8
 
-| 21 |-> | 51 |-> | 101 |-> | 111 |-> | 121 |-> NULL
-Number of Elements are: 5
-
-| 21 |-> | 51 |-> | 101 |-> | 111 |-> NULL
-Number of Elements are: 4
-
-| 21 |-> | 51 |-> | 101 |-> | 105 |-> | 111 |-> NULL
-Number of Elements are: 5
-
-| 21 |-> | 51 |-> | 101 |-> | 111 |-> NULL
-Number of Elements are: 4
+Number of elements are : 3
 
 Explanation :
 
-DeleteAtPos() removes a node from any valid
-position in the linked list.
+The program continuously displays a menu
+and accepts user input.
 
-Validation Performed :
+Depending upon the selected option,
+the corresponding linked list operation
+is executed.
 
-1. Position must be between 1 and iCount.
-2. If position is 1, DeleteFirst() is called.
-3. If position is iCount, DeleteLast() is called.
-4. Otherwise traversal is performed to locate
-   the node preceding the target node.
+Insertion operations create new nodes
+and connect them appropriately.
 
-Deletion Logic :
+Deletion operations remove nodes and
+release dynamically allocated memory.
 
-Before Deletion :
+Display operation traverses the entire
+linked list and prints all nodes.
 
-21 -> 51 -> 101 -> 105 -> 111 -> NULL
-
-Delete Node at Position 4
-
-After Deletion :
-
-21 -> 51 -> 101 -> 111 -> NULL
-
-Operations Performed :
-
-1. Traversed to position (iPos - 1).
-2. Stored target node address.
-3. Adjusted links to bypass target node.
-4. Released memory using delete.
-5. Updated node count.
-6. Displayed updated linked list.
+Count operation returns the total
+number of nodes currently present
+in the linked list.
 
 Conclusion :
 
-DeleteAtPos() successfully removes a node
-from any valid position while maintaining
-the integrity of the Singly Linked List.
+This program combines all previously
+implemented Singly Linked List operations
+into a complete menu-driven application,
+allowing users to interactively manage
+the linked list.
 
 =====================================================================
 */
