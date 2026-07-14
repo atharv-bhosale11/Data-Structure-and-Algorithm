@@ -1,124 +1,124 @@
-# Linked List in C, C++ & Java
+# Data Structures and Algorithms in Java
+
+A comprehensive collection of Data Structures and Algorithms implemented in Java. This repository is designed to provide a strong foundation in DSA concepts through clean, well-documented, and practical implementations.
 
 ## Overview
 
-This repository contains the implementation of Linked List Data Structures using C, C++, and Java. It covers various types of linked lists along with their fundamental operations. The objective is to understand dynamic memory allocation, pointers, object-oriented concepts, and efficient data organization techniques across multiple programming languages.
+This repository contains programs ranging from basic data structures to advanced algorithmic concepts. Each implementation focuses on understanding the underlying logic, improving problem-solving skills, and building a strong foundation for technical interviews, competitive programming, and software development.
 
-## Topics Covered
+## Data Structures
 
-### 1. Singly Linked List
+### Linked Lists
 
-1. Create Linked List
-2. Insert First
-3. Insert Last
-4. Insert At Position
-5. Delete First
-6. Delete Last
-7. Delete At Position
-8. Search Element
-9. Display Elements
-10. Count Nodes
+* Singly Linear Linked List
+* Singly Circular Linked List
+* Doubly Linear Linked List
+* Doubly Circular Linked List
+* Insert, Delete, Search, and Traverse Operations
 
-### 2. Doubly Linked List
+### Stack
 
-1. Create Linked List
-2. Insert First
-3. Insert Last
-4. Insert At Position
-5. Delete First
-6. Delete Last
-7. Delete At Position
-8. Search Element
-9. Display Elements
-10. Count Nodes
+* Stack Using Array
+* Stack Using Linked List
+* Push
+* Pop
+* Peek
 
-### 3. Circular Singly Linked List
+### Queue
 
-1. Create Linked List
-2. Insert First
-3. Insert Last
-4. Insert At Position
-5. Delete First
-6. Delete Last
-7. Delete At Position
-8. Search Element
-9. Display Elements
-10. Count Nodes
+* Linear Queue
+* Circular Queue
+* Queue Using Linked List
+* Enqueue
+* Dequeue
 
-### 4. Circular Doubly Linked List
+### Trees
 
-1. Create Linked List
-2. Insert First
-3. Insert Last
-4. Insert At Position
-5. Delete First
-6. Delete Last
-7. Delete At Position
-8. Search Element
-9. Display Elements
-10. Count Nodes
+* Binary Tree
+* Binary Search Tree (BST)
+* Tree Traversals
 
-## Concepts Used
+  * Inorder
+  * Preorder
+  * Postorder
 
-1. Structures (C)
-2. Classes and Objects (C++ & Java)
-3. Pointers
-4. References
-5. Dynamic Memory Allocation
-6. Traversal Techniques
-7. Data Insertion Operations
-8. Data Deletion Operations
-9. Searching Techniques
-10. Object-Oriented Programming
+### Hashing
 
-## Technologies Used
+* Hash Table Implementation
+* Collision Handling Techniques
 
-1. C Programming Language
-2. C++ Programming Language
-3. Java
-4. GCC Compiler
-5. G++ Compiler
-6. JDK (Java Development Kit)
-7. Visual Studio Code
-8. Git & GitHub
+## Algorithms
 
-## Learning Outcomes
+### Searching Algorithms
 
-1. Understanding Dynamic Data Structures
-2. Mastering Pointer and Reference Manipulation
-3. Efficient Memory Management
-4. Improving Problem-Solving Skills
-5. Understanding Object-Oriented Design
-6. Building a Strong Foundation for Advanced Data Structures and Algorithms (DSA)
-7. Comparing Linked List Implementations Across Multiple Languages
+* Linear Search
+* Binary Search
+
+### Sorting Algorithms
+
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+
+### Recursion
+
+* Basic Recursive Problems
+* Mathematical Recursion
+* Recursive Algorithms
+
+### Algorithm Analysis
+
+* Time Complexity
+* Space Complexity
+* Best, Average, and Worst Case Analysis
+
+## Features
+
+* Object-Oriented Programming Approach
+* Clean and Readable Code
+* Beginner-Friendly Examples
+* Well-Commented Programs
+* Step-by-Step Learning Structure
+* Menu-Driven Applications
+* Practical DSA Implementations
 
 ## Repository Structure
 
 ```text
-Linked-List/
+Data-Structures-and-Algorithms-Java/
 │
-├── C/
-│   ├── SinglyLinkedList/
-│   ├── DoublyLinkedList/
-│   ├── CircularSinglyLinkedList/
-│   └── CircularDoublyLinkedList/
-│
-├── CPP/
-│   ├── SinglyLinkedList/
-│   ├── DoublyLinkedList/
-│   ├── CircularSinglyLinkedList/
-│   └── CircularDoublyLinkedList/
-│
-├── Java/
-│   ├── SinglyLinkedList/
-│   ├── DoublyLinkedList/
-│   ├── CircularSinglyLinkedList/
-│   └── CircularDoublyLinkedList/
-│
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Tree/
+├── Hashing/
+├── Searching/
+├── Sorting/
+├── Recursion/
 └── README.md
 ```
 
+## Learning Goals
+
+* Master Core Data Structures
+* Understand Algorithm Design
+* Improve Problem-Solving Skills
+* Strengthen Java Programming Concepts
+* Prepare for Coding Interviews
+* Build Strong DSA Fundamentals
+
+## Technologies Used
+
+* Java
+* Object-Oriented Programming (OOP)
+* Data Structures
+* Algorithms
+
 ## Author
 
-Atharv Tushar Bhosale
+**Atharv Tushar Bhosale**
+
+---
 
