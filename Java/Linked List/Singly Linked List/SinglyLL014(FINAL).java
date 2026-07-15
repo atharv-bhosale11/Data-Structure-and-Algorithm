@@ -221,7 +221,7 @@ class SinglyLL
 
 }
 
-class program457
+class SinglyLL014
 {
     public static void main(String A[])
     {
