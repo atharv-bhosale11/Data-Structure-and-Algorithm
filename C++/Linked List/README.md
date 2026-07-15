@@ -98,8 +98,4 @@ g++ filename.cpp -o output
 
 **Atharv Tushar Bhosale**
 
-Passionate about Data Structures, Algorithms, System Programming, and Software Development.
 
----
-
-This repository serves as a complete reference for mastering Linked List Data Structures in C++ through practical implementation and hands-on coding.
