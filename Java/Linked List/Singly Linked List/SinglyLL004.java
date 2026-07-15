@@ -33,7 +33,7 @@ class node
     public node next;
 }
 
-class program447
+class SinglyLL004
 {
     public static void main(String A[])
     {
