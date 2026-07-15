@@ -2,7 +2,7 @@
 =====================================================================
 
 Name            : Singly Linked List - Manual Node Creation
-Program Number  : 001
+Program Number  : 002
 
 Description     : This program demonstrates the basic creation of a
                   Singly Linked List in Java. Multiple nodes are
@@ -32,7 +32,7 @@ class node
     public node next;
 }
 
-class SinglyLL001
+class SinglyLL002
 {
     public static void main(String A[])
     {
