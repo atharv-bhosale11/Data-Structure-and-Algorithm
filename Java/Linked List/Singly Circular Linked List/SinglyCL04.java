@@ -2,7 +2,7 @@
 =====================================================================
 
 Name            : Singly Linked List - Constructor Demonstration
-Program Number  : 006
+Program Number  : 004
 Description     : This program demonstrates the constructor of
                   Singly Linked List class.
 
