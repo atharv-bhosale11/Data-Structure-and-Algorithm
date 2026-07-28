@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Doubly Linear Linked List - Delete Last
 Program Number  : 007
-File Name       : DoublyLL_07.cpp
+File Name       : DoublyLL07.cpp
 
 Description     : This program demonstrates deletion of the
                   last node from a Doubly Linear Linked List
