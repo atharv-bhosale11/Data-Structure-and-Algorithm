@@ -133,6 +133,7 @@ class DoublyCL04
     {
         DoublyCL dobj = new DoublyCL();
         int iRet = 0;
+      
         dobj.InsertFirst(51);
         dobj.InsertFirst(21);
         dobj.InsertFirst(11);
@@ -141,5 +142,17 @@ class DoublyCL04
         dobj.InsertLast(111);
 
         dobj.Display();
+
+        iRet = dobj.Count();
+        System.out.println("Number of Nodes: "+iRet);
     }
 }
+
+/*
+
+EXPECTED OUTPUT:-
+
+| 11 | <=> | 21 | <=> | 51 | <=> | 101 | <=> | 111 | <=>
+
+Number of Nodes : 5
+*/
