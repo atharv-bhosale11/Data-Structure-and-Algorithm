@@ -1,8 +1,8 @@
 /*
 ===============================================================================
 Program Name    : Binary Search Tree - Search Operation
-Program Number  : 007
-File Name       : BST_08.c
+Program Number  : 008
+File Name       : Tree_08.c
 
 Description     : This program demonstrates searching an
                   element in a Binary Search Tree (BST).
