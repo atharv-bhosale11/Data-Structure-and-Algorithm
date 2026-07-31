@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Binary Search Tree - Inorder Traversal
 Program Number  : 003
-File Name       : BST_03.c
+File Name       : Tree_03.c
 
 Description     : This program demonstrates Inorder Traversal
                   (Left -> Data -> Right) in a Binary Search Tree.
