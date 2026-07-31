@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Binary Search Tree - Postorder Traversal
 Program Number  : 005
-File Name       : BST_05.c
+File Name       : Tree_05.c
 
 Description     : This program demonstrates Postorder Traversal
                   (Left -> Right -> Data) in a Binary Search Tree.
