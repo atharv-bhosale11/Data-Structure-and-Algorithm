@@ -1,8 +1,8 @@
 /*
 ===============================================================================
 Program Name    : Binary Search Tree - Count Nodes
-Program Number  : 006
-File Name       : BST_06.c
+Program Number  : 007
+File Name       : Tree_07.c
 
 Description     : This program demonstrates how to count the
                   total number of nodes present in a Binary
