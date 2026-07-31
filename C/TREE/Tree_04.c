@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Binary Search Tree - Preorder Traversal
 Program Number  : 004
-File Name       : BST_04.c
+File Name       : Tree_04.c
 
 Description     : This program demonstrates Preorder Traversal
                   (Data -> Left -> Right) in a Binary Search Tree.
