@@ -1,8 +1,8 @@
 /*
 ===============================================================================
 Program Name    : Doubly Circular Linked List - Count Nodes
-Program Number  : 006
-File Name       : DoublyCL06.cpp
+Program Number  : 005
+File Name       : DoublyCL05.cpp
 
 Description     : This program demonstrates how to count the
                   total number of nodes present in a Doubly
