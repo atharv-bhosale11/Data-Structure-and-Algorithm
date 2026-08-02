@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////
 //
-//  Program Name    : Stack Using Singly Linear Linked List
+//  Program Name    : Stack Using Singly Linear Linked List 
 //  Program Number  : 003
 //  Description     : Implementation of Stack Data Structure
 //                    using Singly Linear Linked List.
