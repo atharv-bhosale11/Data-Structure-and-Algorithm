@@ -5,7 +5,7 @@
 //  Description     : Implementation of Stack Data Structure
 //                    using Singly Linear Linked List.
 //
-//                    Operations Performed:
+//                    Operations Performed: 
 //                    1. Push
 //                    2. Pop
 //                    3. Peep
