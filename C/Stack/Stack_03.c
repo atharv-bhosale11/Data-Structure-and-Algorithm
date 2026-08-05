@@ -7,7 +7,7 @@ File Name       : Stack03.c
 Description     : This program demonstrates Stack using
                   Singly Linear Linked List and supports
                   Push and Display operations.
-
+  
 Date            : August 2026
 Language        : C
 Author          : Atharv Tushar Bhosale
@@ -63,6 +63,14 @@ int main()
 }
 
 /*
+===============================================================================
+Sample Output
+
+|101|
+|51|
+|21|
+|11|
+
 ===============================================================================
 End of Program
 ===============================================================================
