@@ -1,7 +1,7 @@
 /*
 ===============================================================================
 Program Name    : Queue Menu Driven Application
-Program Number  : 007
+Program Number  : 006
 File Name       : Queue07.c
 
 Description     : This program demonstrates a complete
