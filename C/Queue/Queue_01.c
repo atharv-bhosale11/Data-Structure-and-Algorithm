@@ -25,21 +25,11 @@ struct node
 
 typedef struct node NODE;
 typedef struct node* PNODE;
-
-struct Queue
-{
-    PNODE first;
-    int iCount;
-};
-
-typedef struct Queue QUEUE;
+typedef struct node** PPNODE;
 
 int main()
 {
-    QUEUE qobj;
-
-    qobj.first = NULL;
-    qobj.iCount = 0;
+    PNODE head = NULL;
 
     return 0;
 }
