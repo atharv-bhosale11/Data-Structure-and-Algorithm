@@ -6,7 +6,7 @@ File Name       : Searching01.c
 
 Description     : Basic Skeleton Program for Searching Techniques.
 
-Date            : August 2026
+Date            : August 2026    
 Language        : C
 Author          : Atharv Tushar Bhosale
 ===============================================================================
