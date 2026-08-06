@@ -4,7 +4,7 @@ Program Name    : Searching Skeleton
 Program Number  : 001
 File Name       : Searching01.c
 
-Description     : Basic Skeleton Program for Searching Techniques.
+Description     : Basic Skeleton Program for Searching Techniques.        
 
 Date            : August 2026    
 Language        : C
