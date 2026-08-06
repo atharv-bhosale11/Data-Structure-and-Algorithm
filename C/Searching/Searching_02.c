@@ -3,7 +3,7 @@
 Program Name    : Accept and Display Array
 Program Number  : 002
 File Name       : Searching02.c
-
+    
 Description     : This program accepts elements from user
                   and displays them using Array.    
 
