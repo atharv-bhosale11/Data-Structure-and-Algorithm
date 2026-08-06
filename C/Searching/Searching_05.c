@@ -5,7 +5,7 @@ Program Number  : 005
 File Name       : Searching05.c      
 
 Description     : This program demonstrates Searching
-                  Techniques using Array.
+                  Techniques using Array.  
                   
                   Operations:
                   1. Linear Search
