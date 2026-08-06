@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Bi-Directional Search    
+Program Name    : Bi-Directional Search      
 Program Number  : 004
 File Name       : Searching04.c
 
