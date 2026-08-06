@@ -3,7 +3,7 @@
 Program Name    : Linear Search
 Program Number  : 003
 File Name       : Searching03.c
-
+    
 Description     : This program accepts elements from user,
                   displays them and performs Linear Search.
 
