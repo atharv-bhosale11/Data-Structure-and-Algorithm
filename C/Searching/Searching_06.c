@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Searching Menu Driven Application
 Program Number  : 006
-File Name       : Searching06.c
+File Name       : Searching06.c    
 
 Description     : This program demonstrates a complete
                   Menu Driven Searching Application.
