@@ -5,7 +5,7 @@ Program Number  : 002
 File Name       : Searching02.c
 
 Description     : This program accepts elements from user
-                  and displays them using Array.
+                  and displays them using Array.    
 
 Date            : August 2026
 Language        : C
