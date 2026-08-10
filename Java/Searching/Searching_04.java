@@ -3,7 +3,7 @@
 Program Name    : Linear Search
 Program Number  : 004
 File Name       : Searching_04.java
-
+    
 Description     : This program demonstrates Linear Search
                   operation on an array.
 
