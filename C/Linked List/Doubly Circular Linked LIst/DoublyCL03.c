@@ -4,7 +4,7 @@
 Name            : Doubly Circular Linked List - InsertFirst
 Program Number  : 003
 
-Description     : This program demonstrates insertion of
+Description     : This program demonstrates insertion of    
                   nodes at the beginning and end of a
                   Doubly Circular Linked List.
 
