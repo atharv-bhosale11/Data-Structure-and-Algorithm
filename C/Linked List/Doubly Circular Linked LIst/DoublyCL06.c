@@ -2,7 +2,7 @@
 =====================================================================
 
 Name            : Doubly Circular Linked List - Count Function
-Program Number  : 006
+Program Number  : 006    
 
 Description     : This program demonstrates counting the
                   number of nodes present in a Doubly
