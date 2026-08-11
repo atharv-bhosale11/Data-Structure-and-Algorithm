@@ -4,7 +4,7 @@
 Name            : Doubly Circular Linked List all Functions
 Program Number  : 002
 
-Description     : This program demonstrates the Count()
+Description     : This program demonstrates the Count()    
                   function of a Doubly Circular Linked List.
 
                   The function traverses the entire
