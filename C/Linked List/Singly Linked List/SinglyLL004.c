@@ -7,7 +7,7 @@ Description     : This program demonstrates how two nodes of a singly
                   linked list can be connected using pointers. It shows
                   the basic concept of node linking, which forms the
                   foundation of a linked list data structure.
-
+  
 Concepts Used   : Structure, Self-Referential Structure,
                   Node Linking, Pointer Assignment,
                   Linked List Basics
