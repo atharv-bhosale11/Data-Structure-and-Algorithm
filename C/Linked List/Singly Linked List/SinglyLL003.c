@@ -7,7 +7,7 @@ Description     : This program demonstrates the creation of a singly
                   linked list node and the initialization of its data
                   and next members. It also illustrates how to access
                   and display node data using the dot operator.
-
+ 
 Concepts Used   : Structure, Self-Referential Structure,
                   Node Initialization, Dot Operator,
                   Pointer Assignment
