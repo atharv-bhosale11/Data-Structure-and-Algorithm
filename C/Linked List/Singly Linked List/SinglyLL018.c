@@ -3,7 +3,7 @@
 
 Program Name    : Singly Linked List - Creating Head Pointer
 Program Number  : 018
-Description     : This program demonstrates the declaration of a
+Description     : This program demonstrates the declaration of a 
                   Singly Linked List node structure along with
                   typedef aliases. It also introduces the Head
                   pointer, which serves as the starting point
