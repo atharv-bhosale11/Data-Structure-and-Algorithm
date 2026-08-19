@@ -5,7 +5,7 @@ Program Name    : Singly Linked List - Multi Node Traversal
 Program Number  : 006
 Description     : This program demonstrates the creation and linking
                   of three nodes in a singly linked list. It shows
-                  how node addresses are stored in pointers and how
+                  how node addresses are stored in pointers and how 
                   multiple nodes can be accessed through chained
                   pointer traversal using the arrow (->) operator.
 
