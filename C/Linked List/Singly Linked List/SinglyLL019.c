@@ -3,7 +3,7 @@
 
 Program Name    : Singly Linked List - Combined typedef Declaration
 Program Number  : 019
-Description     : This program demonstrates a compact way of defining
+Description     : This program demonstrates a compact way of defining  
                   a self-referential structure and its typedef aliases
                   in a single statement. It also introduces the Head
                   pointer used to manage a Singly Linked List.
