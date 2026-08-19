@@ -6,7 +6,7 @@ Program Number  : 001
 Description     : This program demonstrates the creation of a singly
                   linked list node structure in C. It explains the
                   memory layout, structure size, padding, and memory
-                  alignment on a 64-bit system using the sizeof
+                  alignment on a 64-bit system using the size of  
                   operator.
 
 Concepts Used   : Structure, Self-Referential Structure,
