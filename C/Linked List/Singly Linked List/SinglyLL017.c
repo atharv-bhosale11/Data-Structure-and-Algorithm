@@ -6,7 +6,7 @@ Program Number  : 017
 Description     : This program implements all fundamental operations
                   of a Singly Linked List using dynamic memory
                   allocation. It demonstrates insertion, deletion,
-                  traversal, counting, and position-based operations
+                  traversal, counting, and position-based operations    
                   through modular functions.
 
 Concepts Used   : Structure, Self-Referential Structure,
