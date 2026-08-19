@@ -7,7 +7,7 @@ Description     : This program demonstrates how to traverse a singly
                   linked list using a while loop. A temporary pointer
                   is used to visit each node sequentially until the
                   end of the list is reached.
-
+ 
 Concepts Used   : Structure, Self-Referential Structure,
                   typedef, Head Pointer,
                   Temporary Pointer, While Loop,
