@@ -4,7 +4,7 @@
 Program Name    : Singly Linked List - Dynamic Node Creation
 Program Number  : 014
 Description     : This program demonstrates how to create a node
-                  dynamically using malloc(). The node is allocated
+                  dynamically using malloc(). The node is allocated  
                   memory from the heap, initialized with data, and
                   accessed through a pointer.
 
