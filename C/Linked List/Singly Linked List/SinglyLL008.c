@@ -4,7 +4,7 @@
 Program Name    : Singly Linked List - Using typedef for Node
 Program Number  : 008 
 Description     : This program demonstrates the use of typedef to
-                  create an alias for a self-referential structure.
+                  create an alias for a self-referential structure. 
                   It simplifies the declaration of node objects and
                   pointers, making linked list programs easier to
                   read and maintain.
