@@ -1,11 +1,11 @@
 /*
-=====================================================================
+=========================================================================
 
 Program Name    : Singly Linked List - Linking Two Nodes
 Program Number  : 004
 Description     : This program demonstrates how two nodes of a singly
                   linked list can be connected using pointers. It shows
-                  the basic concept of node linking, which forms the
+                  the basic concept of node linking, which forms the 
                   foundation of a linked list data structure.
   
 Concepts Used   : Structure, Self-Referential Structure,
@@ -20,7 +20,7 @@ Date            : July 2026
 Language        : C
 Author          : Atharv Tushar Bhosale
 
-=====================================================================
+=========================================================================
 */
 
 #include<stdio.h>
