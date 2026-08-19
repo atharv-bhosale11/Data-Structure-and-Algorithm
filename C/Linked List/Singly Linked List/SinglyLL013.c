@@ -3,7 +3,7 @@
 
 Program Name    : Singly Linked List - Counting Nodes
 Program Number  : 013
-Description     : This program demonstrates how to count the number
+Description     : This program demonstrates how to count the number  
                   of nodes in a singly linked list using iterative
                   traversal. A temporary pointer is used to visit
                   each node, and a counter is incremented during
