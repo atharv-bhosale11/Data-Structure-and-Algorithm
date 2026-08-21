@@ -3,7 +3,7 @@
 
 Program Name    : Singly Linked List - Assignment Operator Issue
 Program Number  : 026
-Description     : This program demonstrates the implementation of
+Description     : This program demonstrates the implementation of 
                   basic Singly Linked List operations such as
                   InsertFirst(), Display(), and Count(). It also
                   highlights a common programming mistake where the
