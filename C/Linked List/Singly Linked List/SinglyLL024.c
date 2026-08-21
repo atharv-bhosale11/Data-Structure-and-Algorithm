@@ -3,7 +3,7 @@
 
 Program Name    : Singly Linked List - Count Nodes
 Program Number  : 024
-Description     : This program demonstrates the implementation of
+Description     : This program demonstrates the implementation of 
                   Display() and Count() operations in a Singly
                   Linked List. The Count() function traverses
                   the entire list and returns the total number
