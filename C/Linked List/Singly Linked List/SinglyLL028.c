@@ -3,7 +3,7 @@
 
 Program Name    : Singly Linked List - Yoda Condition Demonstration
 Program Number  : 028
-Description     : This program demonstrates a defensive programming
+Description     : This program demonstrates a defensive programming 
                   technique known as Yoda Condition. By placing the
                   constant value on the left side of a comparison,
                   accidental assignment operations can be detected
