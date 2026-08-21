@@ -1,7 +1,7 @@
 /*
 =====================================================================
 
-Program Name    : Singly Linked List - DeleteLast Operation
+Program Name    : Singly Linked List - DeleteLast Operation 
 Program Number  : 032 
 Description     : This program demonstrates the implementation of
                   DeleteLast() operation in a Singly Linear Linked
@@ -14,7 +14,7 @@ Concepts Used   : Singly Linked List,
                   Pointer Manipulation,
                   DeleteLast Operation,
                   Traversal, Node Counting
-
+ 
 Input           : Node values inserted using InsertFirst() and
                   InsertLast() functions.
 
