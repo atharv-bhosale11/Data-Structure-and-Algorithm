@@ -3,7 +3,7 @@
 
 Program Name    : Singly Linked List - DeleteFirst Operation
 Program Number  : 031
-Description     : This program demonstrates the implementation of
+Description     : This program demonstrates the implementation of 
                   DeleteFirst() operation in a Singly Linear Linked
                   List. The first node of the linked list is removed
                   safely by updating the head pointer and releasing
