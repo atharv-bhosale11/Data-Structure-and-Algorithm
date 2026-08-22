@@ -4,7 +4,7 @@
 Name            : Doubly Linked List - Two Nodes Linking
 Program Number  : 003
 Description     : This program demonstrates creation of two nodes
-                  in a Doubly Linked List and establishes links
+                  in a Doubly Linked List and establishes links 
                   between them using next and prev pointers.
 
                   The first node points to the second node through
