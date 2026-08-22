@@ -4,7 +4,7 @@
 Name            : Doubly Linked List - Single Node Creation
 Program Number  : 002
 Description     : This program demonstrates how to create a single
-                  node of a Doubly Linked List using dynamic memory
+                  node of a Doubly Linked List using dynamic memory 
                   allocation. The node is initialized with data and
                   both next and previous pointers are set to NULL.
 
