@@ -5,7 +5,7 @@ Name            : Singly Circular Linked List - Count Operation
 Program Number  : 007
 
 Description     : This program demonstrates the implementation
-                  of Count() function in a Singly Circular
+                  of Count() function in a Singly Circular 
                   Linked List.
 
                   The program performs:
