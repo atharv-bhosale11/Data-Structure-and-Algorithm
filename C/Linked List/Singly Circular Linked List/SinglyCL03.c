@@ -5,7 +5,7 @@ Name            : Singly Circular Linked List - InsertLast Operation
 Program Number  : 003
 
 Description     : This program demonstrates insertion of
-                  nodes at the end of a Singly Circular
+                  nodes at the end of a Singly Circular 
                   Linked List.
 
                   The program supports both InsertFirst()
