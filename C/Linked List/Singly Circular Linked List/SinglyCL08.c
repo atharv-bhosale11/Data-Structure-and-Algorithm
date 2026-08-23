@@ -4,7 +4,7 @@
 Name            : Singly Circular Linked List - DeleteFirst Operation
 Program Number  : 008
  
-Description     : This program demonstrates the implementation
+Description     : This program demonstrates the implementation 
                   of DeleteFirst() function in a Singly Circular
                   Linked List.
 
