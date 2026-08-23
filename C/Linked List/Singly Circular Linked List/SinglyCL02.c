@@ -4,7 +4,7 @@
 Name            : Singly Circular Linked List - InsertFirst Operation
 Program Number  : 002
 
-Description     : This program demonstrates insertion of
+Description     : This program demonstrates insertion of  
                   nodes at the beginning of a Singly
                   Circular Linked List.
 
