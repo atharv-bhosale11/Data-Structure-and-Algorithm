@@ -4,7 +4,7 @@
 Name            : Singly Circular Linked List - Display Operation
 Program Number  : 005
 
-Description     : This program demonstrates the Display()
+Description     : This program demonstrates the Display() 
                   function of a Singly Circular Linked List.
 
                   Nodes are inserted using InsertFirst()
