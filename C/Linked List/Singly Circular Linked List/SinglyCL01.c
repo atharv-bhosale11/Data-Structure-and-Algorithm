@@ -4,7 +4,7 @@
 Name            : Singly Circular Linked List - Skeleton Program
 Program Number  : 001
 
-Description     : This program provides the basic structure
+Description     : This program provides the basic structure  
                   required for implementing a Singly Circular
                   Linked List in C.
 
