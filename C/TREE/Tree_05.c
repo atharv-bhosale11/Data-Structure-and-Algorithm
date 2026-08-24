@@ -6,7 +6,7 @@ File Name       : Tree_05.c
 
 Description     : This program demonstrates Postorder Traversal
                   (Left -> Right -> Data) in a Binary Search Tree.
-                  The traversal visits both subtrees before
+                  The traversal visits both subtrees before 
                   processing the root node.
 
 Date            : July 2026
