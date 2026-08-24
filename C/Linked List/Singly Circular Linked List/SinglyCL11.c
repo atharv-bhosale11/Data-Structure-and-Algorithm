@@ -5,7 +5,7 @@ Name            : Singly Circular Linked List - InsertAtPos and
                   DeleteLast Operations
 Program Number  : 011
 
-Description     : This program demonstrates the implementation
+Description     : This program demonstrates the implementation 
                   of InsertAtPos() and DeleteLast() operations
                   in a Singly Circular Linked List.
 
