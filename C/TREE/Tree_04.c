@@ -5,7 +5,7 @@ Program Number  : 004
 File Name       : Tree_04.c
 
 Description     : This program demonstrates Preorder Traversal
-                  (Data -> Left -> Right) in a Binary Search Tree.
+                  (Data -> Left -> Right) in a Binary Search Tree. 
                   The traversal visits the root node first,
                   followed by the left subtree and then the
                   right subtree.
