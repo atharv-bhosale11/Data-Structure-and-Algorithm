@@ -6,7 +6,7 @@ File Name       : BST_02.c
 
 Description     : This program demonstrates insertion of nodes
                   in a Binary Search Tree (BST). New nodes are
-                  inserted according to BST rules.
+                  inserted according to BST rules. 
 
 Date            : July 2026
 Language        : C
