@@ -9,7 +9,7 @@ Description     : This program demonstrates Inorder Traversal
                   The traversal displays the elements in sorted order.
 
 Date            : July 2026
-Language        : C
+Language        : C 
 Author          : Atharv Tushar Bhosale
 ===============================================================================
 
