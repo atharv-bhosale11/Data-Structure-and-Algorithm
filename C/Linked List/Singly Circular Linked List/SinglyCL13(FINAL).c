@@ -5,7 +5,7 @@ Name            : Singly Circular Linked List - Menu Driven Program
 Program Number  : 013
 
 Description     : This program demonstrates all basic operations
-                  of Singly Circular Linked List using a
+                  of Singly Circular Linked List using a 
                   menu-driven approach.
 
 Operations       :
