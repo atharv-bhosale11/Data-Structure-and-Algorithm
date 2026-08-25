@@ -6,7 +6,7 @@ File Name       : Searching02.cpp
 
 Description     : This program accepts elements from user
                   and displays them using Array.
-
+  
 Date            : August 2026
 Language        : C++
 Author          : Atharv Tushar Bhosale
