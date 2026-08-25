@@ -1,4 +1,4 @@
-/*
+/*   
 ===============================================================================
 Program Name    : Accept and Display Array Elements
 Program Number  : 002
