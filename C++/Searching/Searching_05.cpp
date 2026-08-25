@@ -4,7 +4,7 @@ Program Name    : Complete Searching Application
 Program Number  : 005
 File Name       : Searching05.cpp
 
-Description     : This program accepts elements from user,
+Description     : This program accepts elements from user,  
                   displays them and performs both
                   Linear Search and Bi-Directional Search.
 
