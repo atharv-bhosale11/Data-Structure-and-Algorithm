@@ -9,7 +9,7 @@ Description     : This program accepts elements from user,
                   Linear Search and Bi-Directional Search.
 
 Date            : August 2026
-Language        : C++
+Language        : C++ 
 Author          : Atharv Tushar Bhosale
 ===============================================================================
 */
