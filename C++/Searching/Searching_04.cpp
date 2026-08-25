@@ -5,7 +5,7 @@ Program Number  : 004
 File Name       : Searching04.cpp
 
 Description     : This program accepts elements from user,
-                  displays them and performs
+                  displays them and performs 
                   Bi-Directional Search.
 
 Date            : August 2026
