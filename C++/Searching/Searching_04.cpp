@@ -4,7 +4,7 @@ Program Name    : Bi-Directional Search
 Program Number  : 004
 File Name       : Searching04.cpp
 
-Description     : This program accepts elements from user,
+Description     : This program accepts elements from user, 
                   displays them and performs 
                   Bi-Directional Search.
 
