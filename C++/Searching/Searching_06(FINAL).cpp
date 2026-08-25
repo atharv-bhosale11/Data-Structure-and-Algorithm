@@ -5,7 +5,7 @@ Program Number  : 006
 File Name       : Searching06.cpp
 
 Description     : This program demonstrates Menu Driven
-                  Searching Techniques using Array.
+                  Searching Techniques using Array. 
                   Supported Operations:
                   1. Accept Elements
                   2. Display Elements
