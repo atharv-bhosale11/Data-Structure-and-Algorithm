@@ -7,7 +7,7 @@ File Name       : Searching06.cpp
 Description     : This program demonstrates Menu Driven
                   Searching Techniques using Array. 
                   Supported Operations:
-                  1. Accept Elements
+                  1. Accept Elements 
                   2. Display Elements
                   3. Linear Search
                   4. Bi-Directional Search
