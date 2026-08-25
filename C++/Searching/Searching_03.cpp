@@ -6,7 +6,7 @@ File Name       : Searching03.cpp
 
 Description     : This program accepts elements from user,
                   displays them and performs Linear Search.
-
+ 
 Date            : August 2026
 Language        : C++
 Author          : Atharv Tushar Bhosale
