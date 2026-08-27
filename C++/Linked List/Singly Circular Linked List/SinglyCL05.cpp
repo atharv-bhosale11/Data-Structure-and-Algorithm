@@ -1,7 +1,7 @@
 /*
 =====================================================================
 
-Name            : Singly Circular Linked List - Traversal Using Temp
+Name            : Singly Circular Linked List - Traversal Using Temp 
 Program Number  : 005
 
 Description     : This program demonstrates traversal of a
