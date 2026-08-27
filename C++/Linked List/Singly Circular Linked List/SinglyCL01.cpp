@@ -8,7 +8,7 @@ Description     : This program demonstrates the basic node structure
                   used in a Singly Circular Linked List.
 
                   Each node contains:
-                  - Data field
+                  - Data field 
                   - Pointer to next node
 
                   The program displays the size occupied by the node
