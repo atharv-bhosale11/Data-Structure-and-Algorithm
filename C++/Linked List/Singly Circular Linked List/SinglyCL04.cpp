@@ -4,7 +4,7 @@
 Name            : Singly Circular Linked List - Circular Connection
 Program Number  : 004
 
-Description     : This program demonstrates how to create a
+Description     : This program demonstrates how to create a 
                   Singly Circular Linked List manually.
 
                   Three nodes are created dynamically and linked
