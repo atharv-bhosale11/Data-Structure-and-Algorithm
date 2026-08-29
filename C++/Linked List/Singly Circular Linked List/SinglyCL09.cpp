@@ -40,7 +40,7 @@ class node
         node(int no)
         {
             data = no;
-            next = NULL;
+            next = NULL; 
         }
 };
 
