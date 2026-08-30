@@ -5,7 +5,7 @@ Name            : Singly Circular Linked List - Display Operation
 Program Number  : 015
 
 Description     : This program implements Display() along with
-                  InsertFirst() and InsertLast() operations.
+                  InsertFirst() and InsertLast() operations. 
 
                   The linked list is traversed using a do-while
                   loop and all nodes are displayed.
