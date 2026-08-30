@@ -5,7 +5,7 @@ Name            : Singly Circular Linked List - Display Operation
 Program Number  : 012
 
 Description     : This program implements the Display()
-                  function to display all nodes from the
+                  function to display all nodes from the 
                   circular linked list.
 
 Concepts Used   : Traversal,
