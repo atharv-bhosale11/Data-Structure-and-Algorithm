@@ -7,7 +7,7 @@ Program Number  : 013
 Description     : This program implements Count() function
                   which returns the total number of nodes.
 
-Concepts Used   : Node Counter,
+Concepts Used   : Node Counter, 
                   Member Functions,
                   Linked List Management
 
