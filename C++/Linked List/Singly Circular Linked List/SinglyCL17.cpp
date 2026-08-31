@@ -6,7 +6,7 @@ Program Number  : 017
 
 Description     : This program implements DeleteFirst()
                   operation for Singly Circular Linked List.
-
+ 
                   The first node is removed while maintaining
                   circular connection.
 
