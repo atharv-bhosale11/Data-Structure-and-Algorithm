@@ -4,7 +4,7 @@
 Name            : Singly Circular Linked List - Menu Driven Program
 Program Number  : 022
 
-Description     : This program demonstrates a menu driven
+Description     : This program demonstrates a menu driven 
                   implementation of Singly Circular Linked List.
 
                   User can perform the following operations:
