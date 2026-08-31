@@ -7,7 +7,7 @@ Program Number  : 002
 Description     : This program demonstrates creation of a
                   Doubly Linear Linked List using a class.
 
-                  The Display() function traverses the
+                  The Display() function traverses the 
                   linked list and displays all nodes.
 
 Concepts Used   : Classes and Objects,
