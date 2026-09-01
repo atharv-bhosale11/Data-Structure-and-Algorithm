@@ -4,7 +4,7 @@ Program Name    : Doubly Linear Linked List - Complete Implementation
 Program Number  : 010
 File Name       : DoublyLL10.cpp
 
-Description     : This program demonstrates a complete implementation
+Description     : This program demonstrates a complete implementation 
 of Doubly Linear Linked List using C++.
 
 ```
