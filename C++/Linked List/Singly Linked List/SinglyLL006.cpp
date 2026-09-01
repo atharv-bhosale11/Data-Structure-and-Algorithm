@@ -3,7 +3,7 @@
 
 Program Name    : Data Hiding Using Private Members
 Program Number  : 006
-Description     : This program demonstrates the concept
+Description     : This program demonstrates the concept 
                   of Data Hiding in Object-Oriented
                   Programming. The linked list data
                   members are declared as private,
