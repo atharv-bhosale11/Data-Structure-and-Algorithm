@@ -6,7 +6,7 @@ Program Name    : Singly Linked List - Separate Member Function
 Program Number  : 008
 Description     : This program demonstrates how to declare
                   member functions inside a class and define
-                  them outside the class using the Scope
+                  them outside the class using the Scope 
                   Resolution Operator (::). This approach
                   improves code organization and readability.
 
