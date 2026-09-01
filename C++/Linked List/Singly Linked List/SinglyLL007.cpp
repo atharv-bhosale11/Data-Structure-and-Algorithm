@@ -1,7 +1,7 @@
 /*
 =====================================================================
 
-Program Name    : Singly Linked List Class Skeleton
+Program Name    : Singly Linked List Class Skeleton 
 Program Number  : 007
 Description     : This program demonstrates the basic
                   structure of a Singly Linked List
