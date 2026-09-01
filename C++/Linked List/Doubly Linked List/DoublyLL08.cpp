@@ -8,7 +8,7 @@ Description     : This program demonstrates insertion of a node
                   at a specific position in a Doubly Linear
                   Linked List using C++.
 
-                  The InsertAtPos() function inserts a new node
+                  The InsertAtPos() function inserts a new node  
                   at the desired position while maintaining
                   proper next and previous links.
 
