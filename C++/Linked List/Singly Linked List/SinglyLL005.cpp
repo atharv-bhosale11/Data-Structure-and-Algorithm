@@ -7,7 +7,7 @@ Description     : This program demonstrates the drawback of
                   declaring linked list data members as
                   public. Since the members are directly
                   accessible from outside the class, they
-                  can be modified unintentionally, leading
+                  can be modified unintentionally, leading 
                   to loss of data integrity.
 
 Concepts Used   : Class,
