@@ -5,7 +5,7 @@ Program Number  : 007
 File Name       : DoublyLL07.cpp
 
 Description     : This program demonstrates deletion of the
-                  last node from a Doubly Linear Linked List
+                  last node from a Doubly Linear Linked List 
                   using C++.
 
                   The DeleteLast() function removes the last
