@@ -4,7 +4,7 @@
 Program Name    : Introduction to Singly Linked List Class
 Program Number  : 003
 Description     : This program demonstrates the creation
-                  of a Singly Linked List class. It
+                  of a Singly Linked List class. It 
                   introduces the constructor concept and
                   initializes the head pointer of the
                   linked list to NULL.
