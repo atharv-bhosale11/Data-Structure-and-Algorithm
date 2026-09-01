@@ -4,7 +4,7 @@
 Program Name    : Size of Node in Singly Linked List
 Program Number  : 001
 Description     : This program demonstrates the basic node
-                  structure used in a Singly Linear Linked
+                  structure used in a Singly Linear Linked 
                   List and displays the size occupied by
                   a node in memory.
 
