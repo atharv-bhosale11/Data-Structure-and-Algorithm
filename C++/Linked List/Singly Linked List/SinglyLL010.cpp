@@ -4,7 +4,7 @@
 Program Name    : Singly Linked List - InsertFirst Operation (C++)
 Program Number  : 010
 Description     : This program demonstrates the implementation
-                  of the InsertFirst() member function in a
+                  of the InsertFirst() member function in a 
                   Singly Linked List using a C++ class.
 
                   New nodes are dynamically allocated using
