@@ -8,7 +8,7 @@ Description     : This program demonstrates counting the
                   number of nodes present in a Doubly
                   Linear Linked List.
 
-                  Display() traverses and displays the
+                  Display() traverses and displays the 
                   linked list while Count() returns the
                   total number of nodes.
 
