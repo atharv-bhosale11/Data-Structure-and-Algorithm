@@ -4,7 +4,7 @@
 Program Name    : Singly Linked List - InsertFirst() and InsertLast()
 Program Number  : 011
 Description     : This program demonstrates the implementation of
-                  InsertFirst() and InsertLast() member functions
+                  InsertFirst() and InsertLast() member functions 
                   in a Singly Linked List using C++ classes.
 
                   InsertFirst() inserts a new node at the beginning
