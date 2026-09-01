@@ -5,7 +5,7 @@ Program Number  : 004
 File Name       : DoublyLL04.cpp
 
 Description     : This program demonstrates insertion of a node
-                  at the beginning of a Doubly Linear Linked List
+                  at the beginning of a Doubly Linear Linked List 
                   using C++.
 
                   The InsertFirst() function creates a new node
