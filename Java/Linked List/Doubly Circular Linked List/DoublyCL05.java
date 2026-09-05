@@ -6,7 +6,7 @@ File Name       : DoublyCL05.java
 
 Description     : This program demonstrates the Count()
                   operation in a Doubly Circular Linked List
-                  using Java. The function traverses the
+                  using Java. The function traverses the 
                   linked list and returns the total number
                   of nodes present in the list.
 
