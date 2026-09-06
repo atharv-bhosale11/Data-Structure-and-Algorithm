@@ -5,7 +5,7 @@ Program Number  : 009
 File Name       : DoublyCL09.java
 
 Description     : This program demonstrates the DeleteAtPos() 
-                  operation in a Doubly Circular Linked List.
+                  operation in a Doubly Circular Linked List. 
                   A node can be deleted from any valid position
                   while maintaining circular links.
 
