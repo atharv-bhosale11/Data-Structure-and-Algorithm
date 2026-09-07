@@ -6,7 +6,7 @@ File Name       : DoublyCL10.java
 
 Description     : This program demonstrates a complete Menu Driven
                   implementation of a Doubly Circular Linked List
-                  using Java. It allows the user to perform various
+                  using Java. It allows the user to perform various 
                   insertion, deletion, display, and counting
                   operations interactively.
 
