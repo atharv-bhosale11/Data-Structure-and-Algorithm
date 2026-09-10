@@ -5,7 +5,7 @@ Program Name    : Doubly Linked List - Node Creation
 Program Number  : 001
 File Name       : DoublyLL01.java
 
-Description     : This program demonstrates the basic creation of nodes in a
+Description     : This program demonstrates the basic creation of nodes in a 
                   Doubly Linked List using Java. It introduces the
                   self-referential node structure, constructor initialization,
                   and manual linking of nodes using next and prev references.
