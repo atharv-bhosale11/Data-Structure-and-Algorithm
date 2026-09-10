@@ -4,7 +4,7 @@ Program Name    : Doubly Linear Linked List - Insert Last
 Program Number  : 003
 File Name       : DoublyLL03.java
 
-Description     : This program demonstrates the implementation of the
+Description     : This program demonstrates the implementation of the 
                   InsertLast() operation in a Doubly Linear Linked List
                   using Java. The new node is inserted at the end of
                   the linked list while maintaining both next and
