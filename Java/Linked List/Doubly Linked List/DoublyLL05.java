@@ -4,7 +4,7 @@ Program Name    : Doubly Linear Linked List - Count
 Program Number  : 005
 File Name       : DoublyLL05.java
 
-Description     : This program demonstrates the implementation of the
+Description     : This program demonstrates the implementation of the 
                   Count() operation in a Doubly Linear Linked List
                   using Java. The Count() function returns the total
                   number of nodes present in the linked list.
