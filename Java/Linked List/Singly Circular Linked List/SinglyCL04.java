@@ -7,7 +7,7 @@ Description     : This program demonstrates the constructor of
                   Singly Linked List class.
  
                   The constructor initializes:
-                  - First reference to null
+                  - First reference to null 
                   - Node count to zero
 
 Concepts Used   : Constructor, Class, Object Creation,
