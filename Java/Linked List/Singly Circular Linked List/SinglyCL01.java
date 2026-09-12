@@ -3,7 +3,7 @@
 
 Name            : Singly Linked List - Node Creation and Linking
 Program Number  : 001
-Description     : This program demonstrates the creation of two
+Description     : This program demonstrates the creation of two 
                   nodes in a Singly Linked List and links them
                   together using the next reference.
 
