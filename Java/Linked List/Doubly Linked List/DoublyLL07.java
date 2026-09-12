@@ -4,7 +4,7 @@ Program Name    : Doubly Linear Linked List - Delete Last
 Program Number  : 007
 File Name       : DoublyLL07.java
 
-Description     : This program demonstrates the implementation of the
+Description     : This program demonstrates the implementation of the 
                   DeleteLast() operation in a Doubly Linear Linked List
                   using Java. The last node of the linked list is
                   deleted while maintaining proper next and previous
