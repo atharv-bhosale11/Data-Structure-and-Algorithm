@@ -3,7 +3,7 @@
 
 Name            : Singly Linked List - Node Constructor 
 Program Number  : 003
-Description     : This program demonstrates the use of a
+Description     : This program demonstrates the use of a 
                   parameterized constructor in a node class.
 
                   The constructor initializes:
