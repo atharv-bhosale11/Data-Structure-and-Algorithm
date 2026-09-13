@@ -6,7 +6,7 @@ Program Number  : 006
 Description     : This program demonstrates the creation of a
                   Singly Circular Linked List using three nodes.
 
-                  The last node is connected back to the first node
+                  The last node is connected back to the first node 
                   to form a circular structure. The program displays
                   node data and reference values.
 
