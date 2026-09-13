@@ -8,7 +8,7 @@ Description     : This program demonstrates traversal of a
                   reference variable.
 
                   Since the last node points back to the first node,
-                  traversal continues in a circular manner.
+                  traversal continues in a circular manner. 
 
 Concepts Used   : Singly Circular Linked List,
                   Circular Traversal,
