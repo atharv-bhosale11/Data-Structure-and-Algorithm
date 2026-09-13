@@ -9,7 +9,7 @@ Description     : This program demonstrates insertion of a new node
                   If the list is empty, the new node becomes both
                   the first and last node. Otherwise, the new node
                   is attached after the current last node and the
-                  last pointer is updated.
+                  last pointer is updated. 
 
                   The circular link between the last node and the
                   first node is maintained after insertion.
