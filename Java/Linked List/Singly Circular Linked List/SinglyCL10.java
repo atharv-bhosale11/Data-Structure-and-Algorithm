@@ -7,7 +7,7 @@ Description     : This program demonstrates the basic framework of
                   a Singly Circular Linked List class.
 
                   The class contains declarations of all major
-                  linked list operations such as insertion,
+                  linked list operations such as insertion, 
                   deletion, display, and count. Function bodies
                   are kept empty and will be implemented in
                   subsequent programs.
