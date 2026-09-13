@@ -3,7 +3,7 @@
 
 Name            : Singly Circular Linked List - Display Using do-while
 Program Number  : 008
-Description     : This program demonstrates traversal and display of
+Description     : This program demonstrates traversal and display of 
                   a Singly Circular Linked List using a do-while loop.
 
                   Since the last node points back to the first node,
