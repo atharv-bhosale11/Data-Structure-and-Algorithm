@@ -4,7 +4,7 @@
 Name            : Singly Circular Linked List - Constructor Initialization
 Program Number  : 009
 Description     : This program demonstrates the creation of a
-                  Singly Circular Linked List class with a
+                  Singly Circular Linked List class with a 
                   parameterized node constructor and a list
                   constructor.
 
