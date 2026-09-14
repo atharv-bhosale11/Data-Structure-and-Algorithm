@@ -3,7 +3,7 @@
 
 Name            : Singly Circular Linked List - Display Operation
 Program Number  : 013
-Description     : This program demonstrates how to display all nodes
+Description     : This program demonstrates how to display all nodes 
                   of a Singly Circular Linked List.
 
                   A temporary pointer is used to traverse the list.
