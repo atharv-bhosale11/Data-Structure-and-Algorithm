@@ -3,7 +3,7 @@
 
 Name            : Singly Circular Linked List - Delete First
 Program Number  : 015
-Description     : This program demonstrates deletion of the first
+Description     : This program demonstrates deletion of the first 
                   node from a Singly Circular Linked List.
 
                   If the list is empty, deletion is not performed.
