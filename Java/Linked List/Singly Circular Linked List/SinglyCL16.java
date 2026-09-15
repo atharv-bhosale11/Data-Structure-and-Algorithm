@@ -1,7 +1,7 @@
 /*
 =====================================================================
 
-Name            : Singly Circular Linked List - Delete Last
+Name            : Singly Circular Linked List - Delete Last 
 Program Number  : 016
 Description     : This program demonstrates deletion of the last
                   node from a Singly Circular Linked List.
