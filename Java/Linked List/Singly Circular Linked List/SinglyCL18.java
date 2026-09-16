@@ -5,7 +5,7 @@ Name            : Singly Circular Linked List - DeleteAtPos Operation
 Program Number  : 018
 
 Description     : This program demonstrates all basic operations of
-                  Singly Circular Linked List including:
+                  Singly Circular Linked List including: 
 
                   - InsertFirst()
                   - InsertLast()
