@@ -4,7 +4,7 @@
 Name            : Singly Circular Linked List - Complete Implementation
 Program Number  : 019
 
-Description     : This program implements a complete Singly Circular
+Description     : This program implements a complete Singly Circular 
                   Linked List using Java.
 
                   The application provides a menu-driven interface
