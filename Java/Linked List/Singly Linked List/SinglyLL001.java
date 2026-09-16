@@ -7,7 +7,7 @@ Program Number  : 001
 Description     : This program demonstrates the creation of a single
                   node object in a Singly Linked List. Memory is
                   allocated dynamically using the new keyword, data
-                  is assigned to the node, and the next reference is
+                  is assigned to the node, and the next reference is 
                   initialized to null.
 
 Concepts Used   : Class, Object Creation, Self-Referential Class,
