@@ -1,7 +1,7 @@
 /*
 =====================================================================
  
-Name            : Singly Linked List - Head Pointer Traversal
+Name            : Singly Linked List - Head Pointer Traversal 
 Program Number  : 004
 
 Description     : This program demonstrates traversal of a Singly
