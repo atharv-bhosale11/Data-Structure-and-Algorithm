@@ -1,7 +1,7 @@
 /*
 =====================================================================
 
-Name            : Singly Linked List - Node Access Using Head Pointer
+Name            : Singly Linked List - Node Access Using Head Pointer 
 Program Number  : 003
 
 Description     : This program demonstrates how to create a Singly
