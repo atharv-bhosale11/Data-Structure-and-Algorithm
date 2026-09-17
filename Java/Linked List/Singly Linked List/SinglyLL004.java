@@ -5,7 +5,7 @@ Name            : Singly Linked List - Head Pointer Traversal
 Program Number  : 004
 
 Description     : This program demonstrates traversal of a Singly
-                  Linked List using the Head pointer. The Head
+                  Linked List using the Head pointer. The Head 
                   pointer is moved from one node to the next using
                   the next reference, allowing sequential access to
                   all nodes in the linked list.
