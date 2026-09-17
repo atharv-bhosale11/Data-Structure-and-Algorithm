@@ -6,7 +6,7 @@ Program Number  : 002
 
 Description     : This program demonstrates the basic creation of a
                   Singly Linked List in Java. Multiple nodes are
-                  created manually, data values are assigned, and 
+                  created manually, data values are assigned, and  
                   nodes are connected using reference variables.
                   A Head pointer is used to store the reference of
                   the first node in the linked list.
