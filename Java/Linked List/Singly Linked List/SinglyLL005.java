@@ -7,7 +7,7 @@ Program Number  : 005
 Description     : This program demonstrates traversal of a Singly
                   Linked List using a temporary pointer. Instead of 
                   moving the Head pointer directly, a temporary
-                  reference variable is used to traverse the list,
+                  reference variable is used to traverse the list, 
                   preserving the original Head pointer.
 
 Concepts Used   : Class, Object Creation, Self-Referential Class,
