@@ -1,7 +1,7 @@
 /*
 =====================================================================
 
-Name            : Singly Linked List - Traversal Using While Loop
+Name            : Singly Linked List - Traversal Using While Loop 
 Program Number  : 006 
 
 Description     : This program demonstrates how to traverse a
