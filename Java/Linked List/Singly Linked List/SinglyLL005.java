@@ -4,7 +4,7 @@
 Name            : Singly Linked List - Traversal Using Temporary Pointer
 Program Number  : 005
 
-Description     : This program demonstrates traversal of a Singly
+Description     : This program demonstrates traversal of a Singly 
                   Linked List using a temporary pointer. Instead of  
                   moving the Head pointer directly, a temporary
                   reference variable is used to traverse the list, 
