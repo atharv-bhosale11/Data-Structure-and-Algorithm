@@ -5,7 +5,7 @@ Name            : Singly Linked List - InsertFirst and InsertLast
 Program Number  : 009
 
 Description     : This program demonstrates the implementation of
-                  InsertFirst() and InsertLast() operations in a
+                  InsertFirst() and InsertLast() operations in a 
                   Singly Linked List. Nodes can be inserted at the
                   beginning and at the end of the linked list.
 
