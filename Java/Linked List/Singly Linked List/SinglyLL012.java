@@ -5,7 +5,7 @@ Name            : Singly Linked List - Display and Count Operations
 Program Number  : 012
 
 Description     : This program demonstrates insertion of nodes
-                  at the beginning and end of a Singly Linked
+                  at the beginning and end of a Singly Linked 
                   List. It also implements Display() to traverse
                   and print all nodes, and Count() to return
                   the total number of nodes present in the list.
