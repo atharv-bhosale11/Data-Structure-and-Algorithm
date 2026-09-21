@@ -4,7 +4,7 @@
 Name            : Singly Linked List - InsertFirst with Node Counter
 Program Number  : 010
  
-Description     : This program demonstrates the InsertFirst()
+Description     : This program demonstrates the InsertFirst() 
                   operation in a Singly Linked List along with
                   maintaining a node count. Each insertion at
                   the beginning updates the head pointer and
