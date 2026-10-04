@@ -5,7 +5,7 @@ Name            : Singly Linked List - Menu Driven Implementation
 Program Number  : 014 
 Description     : This program implements a complete Singly Linked
                   List using Java. It provides a menu-driven
-                  interface for performing insertion, deletion,
+                  interface for performing insertion, deletion, 
                   display, and count operations on the linked list.
 
 Concepts Used   : Class, Object, Constructor,
