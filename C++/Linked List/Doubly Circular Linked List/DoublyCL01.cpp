@@ -4,7 +4,7 @@ Program Name    : Doubly Circular Linked List - Node Creation
 Program Number  : 001
 File Name       : DoublyCL01.cpp
 
-Description     : This program demonstrates the creation of a
+Description     : This program demonstrates the creation of a 
                   node for a Doubly Circular Linked List using
                   dynamic memory allocation.
 
