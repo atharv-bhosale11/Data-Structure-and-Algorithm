@@ -4,7 +4,7 @@ Program Name    : Doubly Circular Linked List - InsertLast
 Program Number  : 003
 File Name       : DoublyCL03.cpp
 
-Description     : This program demonstrates insertion of a node
+Description     : This program demonstrates insertion of a node 
                   at the end of a Doubly Circular Linked List
                   using the InsertLast() function.
 
