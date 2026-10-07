@@ -6,7 +6,7 @@ File Name       : DoublyCL06.cpp
 
 Description     : This program demonstrates deletion of the
                   first node from a Doubly Circular Linked
-                  List using the DeleteFirst() function.
+                  List using the DeleteFirst() function. 
 
 Date            : August 2026
 Language        : C++
