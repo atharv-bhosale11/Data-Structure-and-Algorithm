@@ -106,7 +106,7 @@ class DoublyCL
 
         void InsertLast(int no)
         {
-            Node *newn = new Node;
+            Node *newn = new Node; 
 
             newn->data = no;
             newn->next = NULL;
