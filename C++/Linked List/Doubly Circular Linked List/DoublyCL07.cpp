@@ -3,7 +3,7 @@
 Program Name    : Doubly Circular Linked List - DeleteLast
 Program Number  : 007
 File Name       : DoublyCL07.cpp
-
+ 
 Description     : This program demonstrates deletion of the
                   last node from a Doubly Circular Linked
                   List using the DeleteLast() function.
@@ -83,7 +83,7 @@ class DoublyCL
         {
             Node *newn = new Node;
 
-            newn->data = no;
+            newn->data = no; 
             newn->next = NULL;
             newn->prev = NULL;
 
