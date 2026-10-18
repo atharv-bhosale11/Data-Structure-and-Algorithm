@@ -4,7 +4,7 @@ Program Name    : Doubly Circular Linked List - Menu Driven Application
 Program Number  : 010
 File Name       : DoublyCL10.cpp
 
-Description     : This program demonstrates a complete Menu
+Description     : This program demonstrates a complete Menu 
                   Driven Doubly Circular Linked List which
                   supports all major operations.
 
