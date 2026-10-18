@@ -5,7 +5,7 @@ Program Number  : 009
 File Name       : DoublyCL09.cpp
 
 Description     : This program demonstrates deletion of a node
-                  from a specified position in a Doubly Circular
+                  from a specified position in a Doubly Circular 
                   Linked List using DeleteAtPos() function.
 
 Date            : August 2026
